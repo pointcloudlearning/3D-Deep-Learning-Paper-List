@@ -1,7 +1,7 @@
 # 3D-Deep-Learning-Paper-List
 
-* [Point-based networks](#Point-based networks)
-* [Geometric Deep Learning](##Geometric Deep Learning)
+* [Point-based networks](#Point-based-networks)
+* [Geometric Deep Learning](##Geometric-Deep-Learning)
 * [Sample](#Sample)
 * [Generation](#Generation)
 * [Segmentation](#Segmentation)
