@@ -66,7 +66,7 @@
 
 * 3D ShapeNets: A deep representation for volumetric shapes.(CVPR 2015)
 
-### Geometric Deep Learning
+## Geometric Deep Learning
 
 * Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs.(CVPR 2017)
 
