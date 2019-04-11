@@ -100,13 +100,13 @@
 
 * FoldingNet: Point Cloud Auto-encoder via Deep Grid Deformation.(CVPR 2018)
 
+* Learning representations and generative models for 3D point clouds.(ICML 2018)
+
 ### Adversarial method 
 
 * [Point Cloud GAN.](https://openreview.net/pdf?id=ByxAcjCqt7)(ICLR 2019)
 
 * [Learning Localized Generative Models for 3D Point Clouds via Graph Convolution.](https://openreview.net/pdf?id=SJeXSo09FQ)(ICLR 2019)
-
-* Learning representations and generative models for 3D point clouds.(ICML 2018)
 
 * Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling.(NIPS 2016)
 
