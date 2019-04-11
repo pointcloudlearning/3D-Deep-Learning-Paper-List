@@ -118,8 +118,6 @@
 
 * A point set generation network for 3D object reconstruction from a single image.(CVPR2017)
 
-* Learning efficient point cloud generation for dense 3D object reconstruction.(AAAI 2017)
-
 ## Segmentation
 
 * Point Cloud Oversegmentation with Graph-Structured Deep Metric Learning.(CVPR 2019)
