@@ -102,7 +102,9 @@
 
 ### Adversarial method 
 
-* Point Cloud GAN.(arxiv 2018)
+* [Point Cloud GAN.](https://openreview.net/pdf?id=ByxAcjCqt7)(ICLR 2019)
+
+* [Learning Localized Generative Models for 3D Point Clouds via Graph Convolution.](https://openreview.net/pdf?id=SJeXSo09FQ)(ICLR 2019)
 
 * Learning representations and generative models for 3D point clouds.(ICML 2018)
 
