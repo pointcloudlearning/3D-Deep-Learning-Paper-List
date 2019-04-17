@@ -116,7 +116,7 @@
 
 * AtlasNet: A papiermache approach to learning 3D surface generation. (CVPR2017)
 
-* A point set generation network for 3D object reconstruction from a single image.(CVPR2017)
+* [A point set generation network for 3D object reconstruction from a single image.](https://arxiv.org/abs/1612.00603)(CVPR2017)
 
 ## Segmentation
 
