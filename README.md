@@ -92,7 +92,7 @@
 
 * Edge-aware point set resampling.(TOG 2013)
 
-## Generation
+## Generation and Reconstruction
 
 ### Auto-Encoder method
 
@@ -102,21 +102,23 @@
 
 * Learning representations and generative models for 3D point clouds.(ICML 2018)
 
+* [A point set generation network for 3D object reconstruction from a single image.](https://arxiv.org/abs/1612.00603)(CVPR2017)
+
 ### Adversarial method 
 
 * [Point Cloud GAN.](https://openreview.net/pdf?id=ByxAcjCqt7)(ICLR 2019)
 
 * [Learning Localized Generative Models for 3D Point Clouds via Graph Convolution.](https://openreview.net/pdf?id=SJeXSo09FQ)(ICLR 2019)
 
+* Learning representations and generative models for 3D point clouds.(ICML 2018)
+
 * Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling.(NIPS 2016)
 
-### Reconstruction
+### Other methods
 
 * Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction.(AAAI 2018)
 
 * AtlasNet: A papiermache approach to learning 3D surface generation. (CVPR2017)
-
-* [A point set generation network for 3D object reconstruction from a single image.](https://arxiv.org/abs/1612.00603)(CVPR2017)
 
 ## Segmentation
 
