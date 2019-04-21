@@ -48,7 +48,7 @@
 
 ### point cloud compression and representation
 
-* Point2Sequence: Learning the shape representation of 3D point clouds with an attention-based sequence to sequence network.（ACCV 2019)
+* Point2Sequence: Learning the shape representation of 3D point clouds with an attention-based sequence to sequence network.（AAAI 2019)
 
 * Adaptive OCNN: A patch-based deep representation of 3D shapes(TOG 2018)
 
